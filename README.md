@@ -26,8 +26,3 @@ cd NEW-YEAR-
 python NEWYEAR.py
 
 
-#### SCREENSHOT: ⬇️
-![logo](https://github.com/DARK-RA-cyber/NEW-YEAR-/blob/main/Screenshot_2024-12-07-12-22-12-493_com.termux.jpg)
-
-<h3> follow me my Facebook  For Tool's Password</h3>
-<h5>id  Link➛ <a href="https://www.facebook.com/MUHAMMAD.RONI.AKONDO.ACS?mibextid=ZbWKwL">Click Here</a></h5>
